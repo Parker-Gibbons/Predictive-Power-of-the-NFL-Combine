@@ -2,7 +2,9 @@
 STAT 306 Topics in Statistics: Multivariate Sports Analytics - Project #1
 
 Kenyon College
+
 Parker Gibbons
+
 Liam Rosengren
 
 We are interested in creating a multiple regression model to predict the performance of running backs and wide receivers in the NFL using their data from the scouting combine.
